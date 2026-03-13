@@ -13,4 +13,4 @@ The code is well-annotated but non-functional due to dependencies on prior data 
 
 "Fitting Constants Results Plotter_V1,0.ipynb" is a program to run a reaction-diffusion simulation that takes ATP consumption measured in experiment plus simulation and estimates/plots the total energy consumption across space in a 1D line. It pairs particularly with the "Kymograph_Integration.ipynb".
 
-"Reaction-Diffusion lmfit-v14JA.ipynb" is a program that graphs the defluoresence extracted in "Kymograph_Integration.ipynb" from the data., adjusting the myosin enzyme reaction and the diffusion constants in the simulation. 
+"Reaction-Diffusion lmfit-v14JA.ipynb" is a program that graphs the defluoresence extracted in "Kymograph_Integration.ipynb" from the data, adjusting the myosin enzyme reaction and the diffusion constants in the simulation. 
